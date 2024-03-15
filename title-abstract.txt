@@ -1,5 +1,6 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+<Sepsis Insight and Management Platform (SIMPL): 
+Utilizing Comorbidity Subgroups For Enhanced ICU Patient Care>
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+<Sepsis is the leading cause of deaths in the ICU, highlighting a significant deficiency in the incorporation of medical history in current sepsis care protocols. Working with stakeholders, along with building upon the insights from Zador et al. (2019), which challenges the current diagnostic system, we decided to create a comprehensive sepsis risk assessment dashboard that capitalizes on our new insights relating to comorbidity, or disease composition.>
